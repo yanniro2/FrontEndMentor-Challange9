@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor-Challange9/static/css/main.5df40ca3.css",
+    "main.js": "/FrontEndMentor-Challange9/static/js/main.27cdf010.js",
+    "static/js/787.a97cb00a.chunk.js": "/FrontEndMentor-Challange9/static/js/787.a97cb00a.chunk.js",
+    "static/media/bg-pattern-card.svg": "/FrontEndMentor-Challange9/static/media/bg-pattern-card.b61daebd3cb4b885d10fd683755d49bb.svg",
+    "index.html": "/FrontEndMentor-Challange9/index.html",
+    "static/media/bg-pattern-bottom.svg": "/FrontEndMentor-Challange9/static/media/bg-pattern-bottom.a34eb319c02ad49587c339df93212a6e.svg",
+    "static/media/bg-pattern-top.svg": "/FrontEndMentor-Challange9/static/media/bg-pattern-top.dae77b1febf9b29fe34ed57eba86693f.svg",
+    "main.5df40ca3.css.map": "/FrontEndMentor-Challange9/static/css/main.5df40ca3.css.map",
+    "main.27cdf010.js.map": "/FrontEndMentor-Challange9/static/js/main.27cdf010.js.map",
+    "787.a97cb00a.chunk.js.map": "/FrontEndMentor-Challange9/static/js/787.a97cb00a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5df40ca3.css",
+    "static/js/main.27cdf010.js"
+  ]
+}
